@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd48bbe2e891b2a4abb06ca12878b969, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  <Question>k__BackingField: Dilenci para istedi, para verecek misin?
+  stateImage: {fileID: 21300000, guid: 4cf146f4fc7b790409180e5ee8cc4212, type: 3}
+  oyunAdi: 
+  hayirlaOyunaGec: 0
+  evetleOyunaGec: 0
+  battleSound: {fileID: 0}
+  soundtrack: {fileID: 0}
+  townSound: {fileID: 0}
+  healthEvet: 0
+  healthHayir: 0
+  mercyEvet: 1
+  mercyHayir: 2
+  moneyEvet: 2
+  moneyHayir: 0

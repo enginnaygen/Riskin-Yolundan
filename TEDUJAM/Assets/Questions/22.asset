@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd48bbe2e891b2a4abb06ca12878b969, type: 3}
+  m_Name: 22
+  m_EditorClassIdentifier: 
+  <Question>k__BackingField: "\xC7ocuklara bedava yemek da\u011F\u0131tan bir organizasyon
+    seni davet etti, e\u011Fer yard\u0131mc\u0131 olursan hem yemek verecekler hem
+    de para. Kabul ediyor musun?"
+  stateImage: {fileID: 21300000, guid: 5583c788c84806949808a7a1ca4fe86a, type: 3}
+  oyunAdi: 
+  hayirlaOyunaGec: 0
+  evetleOyunaGec: 0
+  battleSound: {fileID: 0}
+  soundtrack: {fileID: 0}
+  townSound: {fileID: 0}
+  gameBackground: {fileID: 0}
+  healthEvet: 1
+  healthHayir: 0
+  mercyEvet: 1
+  mercyHayir: 2
+  moneyEvet: 1
+  moneyHayir: 0

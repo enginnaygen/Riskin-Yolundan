@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd48bbe2e891b2a4abb06ca12878b969, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  <Question>k__BackingField: "\xC7ocuklar seninle basketbol oynamak istedi, oynayacak
+    m\u0131s\u0131n?"
+  stateImage: {fileID: 21300000, guid: f3b9e0e0857b14946856a6983c6a358e, type: 3}
+  gameName: Basketball
+  noAnswerGoMiniGame: 0
+  yesAnswerGoMiniGame: 1
+  battleSound: {fileID: 0}
+  soundtrack: {fileID: 0}
+  townSound: {fileID: 8300000, guid: c692a1972e5c60941a5c8278e6e5d338, type: 3}
+  gameBackground: {fileID: 8300000, guid: 8cdb77b493783574d9fcec3ebd3aca98, type: 3}
+  healthEvet: 0
+  healthHayir: 0
+  mercyEvet: 0
+  mercyHayir: 2
+  moneyEvet: 0
+  moneyHayir: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd48bbe2e891b2a4abb06ca12878b969, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  <Question>k__BackingField: "Karn\u0131n \xE7ok a\xE7 yemek sat\u0131n alacak m\u0131s\u0131n?"
+  stateImage: {fileID: 21300000, guid: 41574efd65910f2499b5d883f939099c, type: 3}
+  oyunAdi: 
+  hayirlaOyunaGec: 0
+  evetleOyunaGec: 0
+  healthEvet: 1
+  healthHayir: 2
+  mercyEvet: 0
+  mercyHayir: 0
+  moneyEvet: 2
+  moneyHayir: 1

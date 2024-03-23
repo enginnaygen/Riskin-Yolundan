@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd48bbe2e891b2a4abb06ca12878b969, type: 3}
+  m_Name: 20
+  m_EditorClassIdentifier: 
+  <Question>k__BackingField: "\"Balonlar\u0131m!! u\xE7uyor gidiyorr yard\u0131m
+    et amca!!\" Balonlar\u0131n gitti\u011Fi yer biraz y\xFCksek. D\xFC\u015F\xFCp
+    yaralanma ihtimalin var. \xC7ocu\u011Fa yard\u0131m edecek misin? "
+  stateImage: {fileID: 21300000, guid: 97709ffd9b884b745bf5d3f0fa42520c, type: 3}
+  oyunAdi: 
+  hayirlaOyunaGec: 0
+  evetleOyunaGec: 0
+  battleSound: {fileID: 0}
+  soundtrack: {fileID: 0}
+  townSound: {fileID: 0}
+  gameBackground: {fileID: 0}
+  healthEvet: 2
+  healthHayir: 0
+  mercyEvet: 1
+  mercyHayir: 2
+  moneyEvet: 0
+  moneyHayir: 0
